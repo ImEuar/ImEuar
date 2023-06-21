@@ -14,7 +14,7 @@
 
 ## **🤔 ¿Quién soy yo?** ##
 
-### Soy Eduardo Cruz; un programador Full-Stack, desarrollador web y diseñador gráfico. Me encanta la tecnología y las ciencias como la astronomía. Aspiro a ser un Data Scientist que ayude a desarrollar mejores alternativas para este planeta.
+Soy Eduardo Cruz; un programador Full-Stack, desarrollador web y diseñador gráfico. Me encanta la tecnología y las ciencias como la astronomía. Aspiro a ser un Data Scientist que ayude a desarrollar mejores alternativas para este planeta.
 
 <br>
 
@@ -48,7 +48,8 @@
 
 ## **📒 Contacto** ##
 
-### Puedes contactarme por medio de mis redes sociales:
+Puedes contactarme por medio de mis redes sociales:
+
   <a href="https://www.linkedin.com/in/euar/">
     <img src="./assets/img/linkedin.png" alt="Logo">
   </a>
