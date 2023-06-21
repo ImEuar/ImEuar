@@ -16,8 +16,6 @@
 
 Soy Eduardo Cruz; un programador Full-Stack, desarrollador web y diseñador gráfico. Me encanta la tecnología y las ciencias como la astronomía. Aspiro a ser un Data Scientist que ayude a desarrollar mejores alternativas para este planeta.
 
-<br>
-
 ## **📖 Sobre mi** ##
 
 - 🖥️ Perito en computación.
@@ -27,7 +25,6 @@ Soy Eduardo Cruz; un programador Full-Stack, desarrollador web y diseñador grá
 - 👊 Trabajo en equipo.
 
 <hr>
-
 
 <div align="center"> 
 <h2><strong>💻 Habilidades</strong></h2>
