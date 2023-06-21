@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/ecruz-2021122">
+    <img src="./assets/img/banner.png" alt="Logo">
+  </a>
+</div>
 
-<!--
-**ecruz-2021122/ecruz-2021122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p></p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1><strong>¡Bienvenido a mi perfil! 👋</strong></h1>
+
+</div>
+
+<hr>
