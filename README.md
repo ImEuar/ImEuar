@@ -34,11 +34,12 @@ Soy Eduardo Cruz; un programador Full-Stack, desarrollador web y diseñador grá
     <img src="./assets/img/js.png">
     <img src="./assets/img/nodejs.png">
     <img src="./assets/img/mongo.png">
+    <img src="./assets/img/react.png">
     <img src="./assets/img/git.png">
     <img src="./assets/img/github.png">
     <img src="./assets/img/html-5.png">
     <img src="./assets/img/css-3.png">
-    <img src="./assets/img/cisco.png">
+    
 </div>
 
 <hr>
